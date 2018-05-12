@@ -1,5 +1,8 @@
 _repo: The-Crater--Or-Vulcan-s-Peak--A-Tale-of-the-Pacific_11573
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -20,6 +23,8 @@ description: "The Crater, or Vulcan's Peak: a Tale of the Pacific is a novel by 
   \ colony after escaping from, then returning to, The Reef. The outnumbered colonists\
   \ must defend their new homes and possessions against natives who covet the new\
   \ land.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11573#The-Crater--Or-Vulcan-s-Peak--A-Tale-of-the-Pacific
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
